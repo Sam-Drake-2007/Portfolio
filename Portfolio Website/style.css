@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: red;
+    flex: 	1;
+}
+
+#buttons{
+    text-align: left;
+}
+
+#text{
+    text-align: center;
+}
+
+#icons{
+    text-align: right;
+}
